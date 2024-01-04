@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm FLoze3, a senior high school student in China.  
+I'm Floze3, a senior high school student in China.  
 I'm currently learring OI skills.
 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Huawei%20Matebook%2014-FF0000?style=for-the-badge&logo=huawei&logoColor=white)![](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)![](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)  
