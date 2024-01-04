@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm FLoze3, a senior high school student in China.  
+I'm currently learring OI skills.
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Huawei%20Matebook%2014-FF0000?style=for-the-badge&logo=huawei&logoColor=white)![](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)![](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)  
+[![](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/zh-cn/edge)[![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)[![](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/wiki/Downloads)[![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/zh-cn/windows/terminal/install#install)  
+![](https://img.shields.io/badge/Floze3-00a1d6?style=for-the-badge&logo=BiliBili&logoColor=white)  
+[![](https://img.shields.io/badge/Floze3-newbie%20690%20-445f9d?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/Floze3)[![](	https://img.shields.io/badge/Floze3-6ku%20126%20-B1361E?logo=Codewars&style=for-the-badge)](https://www.codewars.com/users/Floze3)[![](	https://img.shields.io/badge/Floze3-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Floze3)
+
 <!--
 **Floze3/Floze3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
